@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(135deg, rgb(0, 72, 255), rgb(0, 255, 255));
+  margin: 0px;
+  height: 100vh;
+}
+.flex {
+  display: flex;
+}
+.shu {
+  flex-direction: column;
+}
+.zhujz {
+  justify-content: center;
+}
+.fujz {
+  align-items: center;
+}
+.mtop {
+  margin-top: 30px;
+}
+.fangun {
+  overflow: auto;
+}
